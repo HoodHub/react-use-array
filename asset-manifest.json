@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/use-array/static/css/main.f6483a78.chunk.css",
-    "main.js": "/use-array/static/js/main.b37284b1.chunk.js",
-    "main.js.map": "/use-array/static/js/main.b37284b1.chunk.js.map",
-    "runtime-main.js": "/use-array/static/js/runtime-main.fdc81f47.js",
-    "runtime-main.js.map": "/use-array/static/js/runtime-main.fdc81f47.js.map",
-    "static/js/2.3aa45421.chunk.js": "/use-array/static/js/2.3aa45421.chunk.js",
-    "static/js/2.3aa45421.chunk.js.map": "/use-array/static/js/2.3aa45421.chunk.js.map",
-    "index.html": "/use-array/index.html",
-    "precache-manifest.73a9cd011fb134cb95e0346cd6baa4d5.js": "/use-array/precache-manifest.73a9cd011fb134cb95e0346cd6baa4d5.js",
-    "service-worker.js": "/use-array/service-worker.js",
-    "static/css/main.f6483a78.chunk.css.map": "/use-array/static/css/main.f6483a78.chunk.css.map",
-    "static/js/2.3aa45421.chunk.js.LICENSE.txt": "/use-array/static/js/2.3aa45421.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/use-array/static/media/logo.74487bb9.png"
+    "main.css": "/react-use-array/static/css/main.f6483a78.chunk.css",
+    "main.js": "/react-use-array/static/js/main.17a37a5a.chunk.js",
+    "main.js.map": "/react-use-array/static/js/main.17a37a5a.chunk.js.map",
+    "runtime-main.js": "/react-use-array/static/js/runtime-main.290b7cdc.js",
+    "runtime-main.js.map": "/react-use-array/static/js/runtime-main.290b7cdc.js.map",
+    "static/js/2.32af364b.chunk.js": "/react-use-array/static/js/2.32af364b.chunk.js",
+    "static/js/2.32af364b.chunk.js.map": "/react-use-array/static/js/2.32af364b.chunk.js.map",
+    "index.html": "/react-use-array/index.html",
+    "precache-manifest.c65182b01ebb604f6a4d3179c1346ac3.js": "/react-use-array/precache-manifest.c65182b01ebb604f6a4d3179c1346ac3.js",
+    "service-worker.js": "/react-use-array/service-worker.js",
+    "static/css/main.f6483a78.chunk.css.map": "/react-use-array/static/css/main.f6483a78.chunk.css.map",
+    "static/js/2.32af364b.chunk.js.LICENSE.txt": "/react-use-array/static/js/2.32af364b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/react-use-array/static/media/logo.74487bb9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdc81f47.js",
-    "static/js/2.3aa45421.chunk.js",
+    "static/js/runtime-main.290b7cdc.js",
+    "static/js/2.32af364b.chunk.js",
     "static/css/main.f6483a78.chunk.css",
-    "static/js/main.b37284b1.chunk.js"
+    "static/js/main.17a37a5a.chunk.js"
   ]
 }
