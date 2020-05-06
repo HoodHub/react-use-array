@@ -1,6 +1,6 @@
 {
   "name": "react-use-array",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.",
   "author": "Isaiah Taylor",
   "license": "MIT",
@@ -57,7 +57,7 @@
   "files": [
     "dist"
   ],
-  "types": "index.d.ts",
+  "types": "./dist/index.d.ts",
   "dependencies": {
     "@types/react": "^16.9.34"
   }
