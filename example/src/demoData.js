@@ -1,8 +1,8 @@
 import React from 'react'
 
 export const defaultList = [
-  { task: <span>Check the <mark>use-array</mark> demo</span>, done: true },
-  { task: <span>Install with <code>npm install --save use-array</code> and then import as <code>{`import useArray from 'use-array'`}</code></span>, done: false },
+  { task: <span>Check the <mark>react-use-array</mark> demo</span>, done: true },
+  { task: <span>Install with <code>npm install --save react-use-array</code> and then import as <code>{`import useArray from 'react-use-array'`}</code></span>, done: false },
   { task: 'Follow the example and docs! 🎉 🎉 🎉', done: false },
 ];
 

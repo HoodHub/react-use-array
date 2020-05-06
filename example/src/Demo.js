@@ -1,5 +1,5 @@
 import React from 'react';
-import useArray from 'use-array';
+import useArray from 'react-use-array';
 import { defaultList, getTask, mergeBeforeList, mergeAfterList } from './demoData';
 
 export default () => {
@@ -15,7 +15,7 @@ export default () => {
         <p>
           All of the code is{' '}
           <a
-            href='https://github.com/filipdanic/use-array/blob/master/example/src/Demo.js'
+            href='https://github.com/hoodhub/react-use-array/blob/master/example/src/Demo.js'
             target='_blank'
             rel='noopener noreferrer'
           >available on Github.

@@ -1,6 +1,6 @@
 {
-  "name": "use-array-example",
-  "homepage": "https://filipdanic.github.io/use-array",
+  "name": "react-use-array-example",
+  "homepage": "https://hoodhub.github.io/react-use-array",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
-    "use-array": "file:.."
+    "react-use-array": "file:.."
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
