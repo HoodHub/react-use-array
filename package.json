@@ -56,5 +56,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "types": "index.d.ts",
+  "dependencies": {
+    "@types/react": "^16.9.34"
+  }
 }
