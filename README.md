@@ -1,7 +1,7 @@
 [![NPM](https://img.shields.io/npm/v/use-array.svg)](https://www.npmjs.com/package/react-use-array)
 # react-use-array
 
-A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.
+A custom React hook that lets you manipulate an array data structure without ever needing extra utilities. Actively maintained, issues and PRs welcome. **Now with full TypeScript support.**
 
 Forked from [filipdanic/use-array](https://github.com/filipdanic/use-array).
 
