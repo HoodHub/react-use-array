@@ -3,6 +3,8 @@
 
 A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.
 
+Forked from [filipdanic/use-array](https://github.com/filipdanic/use-array).
+
 [👉 Demo site and docs.](https://hoodhub.github.io/react-use-array/)
 
 Start with:
