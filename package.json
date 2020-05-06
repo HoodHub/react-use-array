@@ -2,7 +2,7 @@
   "name": "react-use-array",
   "version": "1.0.0",
   "description": "A custom React hook that lets you manipulate an array data structure without ever needing extra utilities.",
-  "author": "http://danicfilip.com/",
+  "author": "Isaiah Taylor",
   "license": "MIT",
   "repository": "http://github.com/HoodHub/react-use-array",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   "scripts": {
     "test": "cross-env CI=1 react-scripts test --env=jsdom",
     "test:watch": "react-scripts test --env=jsdom",
-    "build": "rollup -c",
+    "build": "tsc",
     "start": "rollup -c -w",
     "prepare": "npm run build",
     "predeploy": "cd example && npm install && npm run build",
