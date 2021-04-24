@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@svgr/rollup": "^2.4.1",
+    "@types/react": "^16.9.34",
     "babel-core": "^6.26.3",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.7.0",
@@ -52,13 +53,11 @@
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^1.6.2",
-    "rollup-plugin-url": "^1.4.0"
+    "rollup-plugin-url": "^1.4.0",
+    "typescript": "4.1.2"
   },
   "files": [
     "dist"
   ],
-  "types": "./dist/index.d.ts",
-  "dependencies": {
-    "@types/react": "^16.9.34"
-  }
+  "types": "./dist/index.d.ts"
 }
